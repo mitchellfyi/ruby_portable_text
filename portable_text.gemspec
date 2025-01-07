@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "activesupport", ">= 6.0", "< 8.0"
   spec.add_dependency "dry-configurable", "~> 1.0"
   spec.add_dependency "dry-inflector", "~> 1.0"
-  spec.add_dependency "dry-initializer", "~> 3.1"
+  spec.add_dependency "dry-initializer", "~> 3.1.1"
   spec.add_dependency "phlex", "~> 1.10"
   spec.add_dependency "zeitwerk", "~> 2.6"
 
